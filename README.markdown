@@ -6,8 +6,12 @@ This is a collection of free and open-source icons for use by multiple authentic
 <table>
 	<thead>
 	  <tr>
-	    <th colspan='2'>Service</th>
-	    <th colspan='4'>PNG</th>
+	    <th>Service</th>
+	    <th>&nbsp;</th>
+	    <th>PNG</th>
+	    <th>&nbsp;</th>
+	    <th>&nbsp;</th>
+	    <th>&nbsp;</th>	    	    
 	    <th>EPS</th>
 	  </tr>
 	</thead>
@@ -31,7 +35,7 @@ This is a collection of free and open-source icons for use by multiple authentic
 	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/facebook.eps'>.EPS</a></td>        	      
     </tr>
     <tr>
-	    <th><img src='http://github.com/intridea/authbuttons/raw/master/png/googl_32.png'/></th>      
+	    <th><img src='http://github.com/intridea/authbuttons/raw/master/png/google_32.png'/></th>      
 	    <th>Google</th>
 	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/google_32.png'>32x32</a></td>        
 	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/google_64.png'>64x64</a></td>        
